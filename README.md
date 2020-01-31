@@ -14,7 +14,7 @@ download some images to local or Google Cloud Storage
 
 2.use AutoML(GCP) to train the data
 
-3.Use the model(clik TF Lite)
+3.Use the model(click TF Lite)
 
 4.download the files: dict.txt; model.tflite
 
